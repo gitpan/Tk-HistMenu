@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Tk-HistMenu.t
+lib/Tk/HistMenu.pm
+test.pl
+META.yml                                 Module meta-data (added by MakeMaker)
